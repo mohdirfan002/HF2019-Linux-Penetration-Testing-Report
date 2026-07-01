@@ -141,8 +141,8 @@ Performed Linux privilege escalation techniques to obtain root privileges.
 ### Enumeration
 
 ![Enumeration](screenshots/service-enumeration.webp)
-![Enumeration](screenshots/wpscan-enumeration.webp)
-![Enumeration](screenshots/wpscan-enumeration2.webp)
+![Enumeration - WPscan ](screenshots/wpscan-enumeration.webp)
+![Enumeration- WPscan ](screenshots/wpscan-enumeration2.webp)
 
 ---
 
