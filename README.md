@@ -44,9 +44,11 @@ https://medium.com/@mohdirfanrx/penetration-testing-report-hf2019-linux-exploita
 
 - Kali Linux
 - Nmap
+- WPscan
 - Gobuster
-- Netcat
+- Msfconsole
 - Searchsploit
+- Jhon
 - Linux Terminal
 - Bash
 
@@ -81,7 +83,7 @@ Enumerated:
 - Web application resources
 
 **Tools**
-
+- WPscan
 - Gobuster
 - Browser
 - Curl
@@ -131,25 +133,31 @@ Performed Linux privilege escalation techniques to obtain root privileges.
 
 ### Nmap Scan
 
-![Nmap Scan](screenshots/nmap.png)
+![Nmap Scan](screenshots/arp_scan.webp)
+![Nmap Scan](screenshots/nmap-scan.webp)
 
 ---
 
 ### Enumeration
 
-![Enumeration](screenshots/enumeration.png)
+![Enumeration](screenshots/service-enumeration.webp)
+![Enumeration](screenshots/wpscan-enumeration.webp)
+![Enumeration](screenshots/wpscan-enumeration2.webp)
 
 ---
 
 ### Exploitation
 
-![Exploitation](screenshots/exploit.png)
+![Exploitation](screenshots/exploitation.webp)
+![Exploitation](screenshots/exploitation2.webp)
+![Exploitation](screenshots/Jhon.webp)
 
 ---
 
 ### Root Access
 
-![Root Access](screenshots/root.png)
+![SSH Access](screenshots/ssh-access.webp)
+![Root Access](screenshots/root-access.webp)
 
 ---
 
